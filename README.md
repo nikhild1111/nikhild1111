@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Domade</h1>
 <h3 align="center">MERN Stack Developer | Java | C++ | DSA | Full-Stack Intern</h3>
 
----
-
-## 🧑‍💻 About Me  
-
 IT Engineering student (2022–2026) at **D. Y. Patil College of Engineering, Akurdi (CGPA: 8.3)**.  
 I love building scalable full-stack applications using **React, Node.js, Express, MongoDB, and MySQL**.  
 Passionate about backend architecture, clean UI design, authentication systems, and solving complex problems  
@@ -17,6 +13,7 @@ Currently exploring **Cloud Computing, System Design, and AI-powered development
 Open to full-time roles and excited to contribute to impactful real-world products in the IT industry.
 
 ---
+
 
 ## 🧠 Tech Stack  
 
