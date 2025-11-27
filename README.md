@@ -1,152 +1,143 @@
-<h1 align="center">Hi 👋, I'm Nikhil Domade</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Intern | Problem Solver</h3>
-
+<!-- Banner -->
 <p align="center">
-  <em>
-    Passionate IT Engineering student at D. Y. Patil College of Engineering, Akurdi (CGPA: 8.3),
-    building modern full-stack applications with React, Node.js, MongoDB and exploring AI & Cloud.
-  </em>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%F0%9F%91%8B+I'm+Nikhil+Domade;+MERN+Stack+Developer;Full-Stack+Intern;Problem+Solver+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=nikhild1111&label=Profile%20Views&color=blue&style=flat)
+![Followers](https://img.shields.io/github/followers/nikhild1111?label=Followers&color=blue)
+![Stars](https://img.shields.io/github/stars/nikhild1111?label=Stars&color=yellow)
+
+</div>
+
+---
+
+# 👨‍💻 About Me  
+
+🎓 **IT Engineering Student** at D. Y. Patil College of Engineering, Akurdi (CGPA: 8.3)  
+💼 Former **Full-Stack Intern** at Step One Step Ahead  
+🌱 Currently learning **Cloud Computing, System Design, Advanced React & AI Integration**  
+🛠️ Passionate about building **scalable full-stack apps** with great UI/UX  
+🚀 Interested in **Backend, MERN Stack, API Development, MongoDB, and Cloud**  
+🎯 Goal: Full-time role in **Full-Stack / Backend / Cloud Engineering**
+
+---
+
+# 📬 Contact Me  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhild1111&label=Profile%20Views&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/nikhild1111?label=Followers&style=flat&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/nikhild1111?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" alt="stars" />
+  <a href="mailto:domadenikhil05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nikhil-domade-0194872b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/nikhild1111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://vercel-frontend-nine-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
 ---
 
-## 📬 Contact Me
+# 🧠 Tech Stack  
 
-- 📧 **Email:** domadenikhil05@gmail.com  
-- 📱 **Phone:** +91 8329590831  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/nikhil-domade-0194872b0/  
-- 🔗 **GitHub:** https://github.com/nikhild1111  
-- 🌐 **Portfolio:** https://vercel-frontend-nine-chi.vercel.app/
-
----
-
-## 🚀 About Me
-
-- 🎓 **Information Technology Student** at *D. Y. Patil College of Engineering, Akurdi*  
-- 💼 Worked as a **Full-Stack Intern** at Step One Step Ahead (Thane)  
-- 🌱 Currently learning **Cloud Computing, System Design, React Advanced & Authentication Systems**  
-- 🛠️ Love building **full-stack web apps**, improving performance, and creating scalable solutions  
-- 📌 Interested in **MERN Stack, Node.js APIs, MongoDB, AI Integration & SQL-based systems**  
-- 🎯 Goal: Secure role in **Full-Stack Development / Backend / Cloud-based applications**
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### 🖥️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Other Skills
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Analytics & Score
-
-### ⚙️ Overall Stats
+## 💻 Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhild1111&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js" />
 </p>
 
-### 🧮 Top Languages
+## 🌐 Frontend  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhild1111&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
-### 🔥 Contribution Streak
+## 🖥️ Backend & APIs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🛠️ Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
+</p>
+
+---
+
+# 📊 GitHub Analytics & Score  
+
+### 📈 Contribution Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhild1111&theme=tokyonight&hide_border=true" />
 </p>
 
----
+### ⚙️ GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhild1111&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🏗️ Experience
-
-### 🔹 Full-Stack Intern – Step One Step Ahead (Thane)  
-**Jan 2025 – Feb 2025**
-- Built responsive UI from **Figma designs** using React & Tailwind  
-- Developed **RESTful APIs** using Node.js & Express  
-- Implemented **secure database integration** with authentication  
-- Worked on debugging, deployment, and team collaboration  
-
----
-
-## 📌 Projects
-
-### 🛒 **Ecomzy – MERN E-commerce Application**
-- Full e-commerce system with **JWT authentication & authorization**
-- Product filters, cart, wishlist & **Razorpay payment**
-- Admin dashboard with product/user/order management  
-- Pagination & debouncing for performance  
-🔗 **Live:** Add link here  
+### 🧮 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhild1111&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🤖 **AI-Powered Resource Generator**
-- Generates **flashcards & quizzes** using Gemini 1.5  
-- Secure JWT authentication  
-- Saved topics system + time-based quiz  
-🔗 **Live:** https://gemai-1.onrender.com  
+# 🏗️ Experience  
+
+### 🔹 **Full-Stack Intern — Step One Step Ahead (Thane)**  
+📅 *Jan 2025 – Feb 2025*  
+- Built responsive UIs from **Figma** using React & Tailwind  
+- Developed REST APIs using **Node.js & Express**  
+- Integrated **MongoDB + authentication system**  
+- Worked on debugging, deployment, and testing  
+- Collaborated in a multi-developer team
 
 ---
 
-### 🎓 **StudentGuide Platform – MERN**
-- User login/signup + password reset  
-- Student services: **hostel, food, books, mentorship, guides**  
-- Filters for: year, department, college  
+# 🚀 Projects  
+
+## 🛒 **Ecomzy – MERN E-commerce App**
+- Authentication + role-based authorization (JWT)  
+- Product filters, cart system, Razorpay checkout  
+- Admin dashboard for product/user/order management  
+- API optimized with pagination + debouncing  
+🔗 *Live Link:* Add here  
+
+---
+
+## 🤖 **AI-Powered Resource Generator**
+- Generates flashcards & MCQ quiz using **Gemini 1.5 AI**  
+- JWT authentication + topic saving  
+- Time-based quiz with scoring  
+🔗 https://gemai-1.onrender.com  
+
+---
+
+## 🎓 **StudentGuide Platform**
+- Login/signup & password reset  
+- Hostel, food, books, mentorship & guide sections  
+- Filters: year, department, college  
 - Email notifications using NodeMailer  
-🔗 **Live:** https://studentguideclient.onrender.com  
+🔗 https://studentguideclient.onrender.com  
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements  
 
-- 🟩 Solved **350+ DSA problems on LeetCode**  
-- 🟦 Solved **180+ problems on GeeksforGeeks**  
-- 🥇 **1st Rank** in Debugging Competition (ITESA Tech Fest)  
+- 🟩 Solved **350+ LeetCode problems**  
+- 🟦 Solved **180+ GFG problems**  
+- 🥇 **1st Rank** in Debugging Competition (ITESA)  
 - 🧠 Selected for **Smart India Hackathon (Internal)**  
-- 🎤 Conducted workshops and mentored juniors  
-- 🤝 Volunteered in multiple technical events  
+- 👨‍🏫 Conducted workshops for juniors  
+- 🤝 Volunteer in multiple technical events  
 
 ---
 
 <p align="center">
-  ⭐ *If you like my work, feel free to star my repositories!* ⭐
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Feel+free+to+explore+my+repositories!;Let's+connect+and+build+something+amazing+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repos!
 </p>
